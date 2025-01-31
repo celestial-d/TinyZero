@@ -1,7 +1,5 @@
 #!/bin/bash
-# alias python='/home/weiji/anaconda3/envs/zero/bin/python'
-# alias python3='/home/weiji/anaconda3/envs/zero/bin/python3'
-# alias pip='/home/weiji/anaconda3/envs/zero/bin/pip'
+
 
 export N_GPUS=2
 export CUDA_VISIBLE_DEVICES=2,3
